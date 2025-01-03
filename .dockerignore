@@ -1,0 +1,11 @@
+# Modules
+node_modules
+
+# Logs
+npm-debug.log
+
+# Ambiente
+.env
+
+# Sistema Operacional
+.DS_Store
