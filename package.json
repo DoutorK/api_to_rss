@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.2",
     "gitnore": "^2.0.0",
-    "node": "^23.5.0"
+    "node": "^23.5.0",
+    "rss-parser": "^3.13.0"
   }
 }
